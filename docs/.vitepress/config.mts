@@ -2,24 +2,33 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "TODO: add your title here",
-  description: "6.1040 Fall 2024",
-  // TODO: add your base here; this should be your repo name!
-  // base: "/<REPO_NAME>/",
+  title: "Dana Hua",
+  description: "Software Engineer Portfolio",
+  base: "/portfolio/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "Home", link: "/" },
-      { text: "Blogs", link: "/blogs" },
+      { text: "Tech", link: "/tech" },
+      { text: "Photography", link: "/photos" },
+      // { text: "About", link: "/about" },
     ],
 
     sidebar: [
       {
-        text: "Blogs",
-        link: "/blogs",
+        text: "Tech",
+        link: "/tech",
       },
+      {
+        text: "Photography",
+        link: "/photos",
+      },
+      // {
+      //   text: "About",
+      //   link: "/About",
+      // },
     ],
 
-    socialLinks: [{ icon: "github", link: "https://github.com/61040-fa24" }],
+    socialLinks: [{ icon: "linkedin", link: "https://www.linkedin.com/in/huadana1/" }],
   },
 });

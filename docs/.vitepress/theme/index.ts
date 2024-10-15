@@ -1,4 +1,8 @@
 import Theme from "vitepress/theme";
 import "./style.css";
+import HomeLayout from "./HomeLayout.vue";
 
-export default Theme;
+export default {
+    extends: Theme,
+    Layout: HomeLayout,
+};

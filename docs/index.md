@@ -3,23 +3,27 @@
 layout: home
 
 hero:
-  name: "TODO: Title"
-  text: "TODO: Subtitle"
-  tagline: "TODO: Tagline"
+  name: "Dana Hua"
+  text: "Software Engineer"
+  tagline: "MIT | Human Computer Interaction"
+  image:
+    src: /assets/DSCF0572-2-transparent.png
   actions:
     - theme: brand
-      text: Template Repository
-      link: "https://github.com/61040-fa24/vitepress-template"
+      text: Resume
+      link: "https://drive.google.com/file/d/11fhFLrHhtd7HAc7OXeGxHwPe-7qwmraw/view"
     - theme: alt
-      text: Example Site
-      link: "https://61040-fa24.github.io/portfolio-dhua/"
+      text: LinkedIn
+      link: "https://www.linkedin.com/in/huadana1/"
 
 features:
-  - title: Blogs
-    details: Some cool blogs you'll write this semester!
-    link: /blogs
-  - title: Assignments
-    details: All of your assignments will be posted on your portfolio.
-  - title: About Me
-    details: You'll implement a small bio about yourself on here!
+  - title: 💻Tech
+    details: All my professional work in one spot!
+    link: /tech
+  - title: 📷Photography
+    details: Gallery of some of my favorite photos!
+    link: /photos
+  # - title: About
+  #   details: Deep dive into who I am!
+  #   link: /about
 ---
