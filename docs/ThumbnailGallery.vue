@@ -25,15 +25,15 @@
 </template>
 
 <script>
-import an from '../public/anchen.jpg'
-import bruges from '../public/bruges.jpg'
-import bulletcard from '../public/bulletcard2.jpg'
-import bulletchalk from '../public/bulletchalk2.jpg'
-import firespin from '../public/firespin.jpg'
-import frogs from '../public/frogs.jpg'
-import paris from '../public/paris.jpg'
-import personstep from '../public/personstep.jpg'
-import syd from '../public/syd.jpg'
+import an from './public/anchen.jpg'
+import bruges from './public/bruges.jpg'
+import bulletcard from './public/bulletcard2.jpg'
+import bulletchalk from './public/bulletchalk2.jpg'
+import firespin from './public/firespin.jpg'
+import frogs from './public/frogs.jpg'
+import paris from './public/paris.jpg'
+import personstep from './public/personstep.jpg'
+import syd from './public/syd.jpg'
 
 export default {
   data() {

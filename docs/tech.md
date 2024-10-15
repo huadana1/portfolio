@@ -33,7 +33,7 @@ My team and I investigated the Boston metropolitan area's housing markets and ho
 the following interactive data visualization:
 [Prioritizing Municipalities for Compliance With the MBTA Communities Act](https://juliacamacho.github.io/6c35_final/).
 
-![Map of Boston's metropolitan area municipalities with metrics for determining transit-oriented upzoning](../public/transit.png){width=600px}
+![Map of Boston's metropolitan area municipalities with metrics for determining transit-oriented upzoning](./public/transit.png){width=600px}
 
 <!-- ## Static Pages
 [Aquapressure](https://aquapressure.org/) 
