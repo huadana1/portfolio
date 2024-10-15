@@ -26,13 +26,6 @@
 
 <script>
 import an from '/an.jpg'
-import imgUrl from './assets/img.png'
-import imgUrl from './assets/img.png'
-import imgUrl from './assets/img.png'
-import imgUrl from './assets/img.png'
-import imgUrl from './assets/img.png'
-import imgUrl from './assets/img.png'
-
 export default {
   data() {
     return {
