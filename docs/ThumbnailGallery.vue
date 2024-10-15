@@ -25,7 +25,7 @@
 </template>
 
 <script>
-import an from '/an.jpg'
+import an from '../public/an.jpg'
 export default {
   data() {
     return {
