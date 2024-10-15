@@ -26,6 +26,15 @@
 
 <script>
 import an from '../public/anchen.jpg'
+import bruges from '../public/bruges.jpg'
+import bulletcard from '../public/bulletcard.jpg'
+import bulletchalk from '../public/bulletchalk.jpg'
+import firespin from '../public/firespin.jpg'
+import frogs from '../public/frogs.jpg'
+import paris from '../public/paris.jpg'
+import personstep from '../public/personstep.jpg'
+import syd from '../public/syd.jpg'
+
 export default {
   data() {
     return {
@@ -41,49 +50,49 @@ export default {
           title: 'Thumbnail 2',
           shortDescription: 'Cobblestone road in Bruges, Belgium in December',
           longDescription: 'This is a longer description that provides more details about Thumbnail 2.',
-          image: '/Bruges-cobblestone.jpg',
+          image: bruges,
         },
         {
           title: 'Thumbnail 3',
           shortDescription: 'Bullet striking a playing card taken using strobe photography techniques',
           longDescription: 'This is a longer description that provides more details about Thumbnail 3.',
-          image: '/bullet-card.JPG',
+          image: bulletcard,
         },
         {
           title: 'Thumbnail 3',
           shortDescription: 'Bullet striking chalk, taken using strobe photography techniques',
           longDescription: 'This is a longer description that provides more details about Thumbnail 3.',
-          image: '/bullet-chalk.JPG',
+          image: bulletchalk,
         },
         {
           title: 'Fire dance show in Maui, HI',
           shortDescription: 'Fire dance show in Maui, HI',
           longDescription: 'This is a longer description that provides more details about Thumbnail 3.',
-          image: '/fire-spin.jpg',
+          image: firespin,
         },
         {
           title: 'Frogs in their natural habitat',
           shortDescription: 'Frogs in their natural habitat',
           longDescription: 'This is a longer description that provides more details about Thumbnail 3.',
-          image: '/frogs-DC.jpg',
+          image: frogs,
         },
         {
           title: 'Man walks on air',
           shortDescription: 'Man walking on air',
           longDescription: 'This is a longer description that provides more details about Thumbnail 3.',
-          image: '/step.jpg',
+          image: personstep,
         },
         {
           title: 'Street portrait taken next to a mural in Singapore',
           shortDescription: 'Street portrait taken next to a mural in Singapore',
           longDescription: 'This is a longer description that provides more details about Thumbnail 3.',
-          image: '/sydney.jpg',
+          image: syd,
         },
         {
           title: 'Reflections from a puddle by the Seine River in Paris, France after a rainy day ',
           shortDescription: 'Reflections from a puddle by the Seine River in Paris, France after a rainy day',
           longDescription: 'This is a longer description that provides more details about Thumbnail 3.',
-          image: '/paris-reflection.jpg',
+          image: paris,
         },
         // Add more thumbnails as needed
       ],
