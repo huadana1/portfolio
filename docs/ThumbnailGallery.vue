@@ -25,6 +25,14 @@
 </template>
 
 <script>
+import an from '/an.jpg'
+import imgUrl from './assets/img.png'
+import imgUrl from './assets/img.png'
+import imgUrl from './assets/img.png'
+import imgUrl from './assets/img.png'
+import imgUrl from './assets/img.png'
+import imgUrl from './assets/img.png'
+
 export default {
   data() {
     return {
@@ -34,7 +42,7 @@ export default {
           title: 'An Chen: Night portrait',
           shortDescription: 'Night portrait taken by the Charles River in Cambridge, MA',
           longDescription: 'This is a longer description that provides more details about Thumbnail 1.',
-          image: '/an.jpg',
+          image: {an},
         },
         {
           title: 'Thumbnail 2',
