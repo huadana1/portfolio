@@ -7,7 +7,7 @@ hero:
   text: "Software Engineer"
   tagline: "MIT | Human Computer Interaction"
   image: 
-    src: "https://drive.usercontent.google.com/download?id=15dDpLnowNXP8G_iuoYhXAFWQOri9ceLj"
+    src: /dana2.jpg
   actions:
     - theme: brand
       text: Resume
