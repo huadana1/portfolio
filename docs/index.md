@@ -6,7 +6,9 @@ hero:
   name: "Dana Hua"
   text: "Software Engineer"
   tagline: "MIT | Human Computer Interaction"
-  image: "/dana2.png"
+  image: 
+    src: "/dana2.png"
+    alt: "dana"
   actions:
     - theme: brand
       text: Resume
