@@ -4,7 +4,7 @@ title: Dana's Photography World
 aside: false
 ---
 <script setup>
-  import ThumbnailGallery from './components/ThumbnailGallery.vue';
+  import ThumbnailGallery from './ThumbnailGallery.vue';
 </script>
 
 # Dana's Photography World :camera:
