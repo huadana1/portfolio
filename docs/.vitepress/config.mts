@@ -29,6 +29,8 @@ export default defineConfig({
       // },
     ],
 
-    socialLinks: [{ icon: "linkedin", link: "https://www.linkedin.com/in/huadana1/" }],
+    socialLinks: [
+      { icon: "linkedin", link: "https://www.linkedin.com/in/huadana1/" }, 
+      { icon: "instagram", link: "https://www.instagram.com/hua.dslr?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="}],
   },
 });
